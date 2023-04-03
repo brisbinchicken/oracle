@@ -1,0 +1,6 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaacwu5xzm27eozdvmc7virmb7upfjqoyxywwiw7gf2rosrkqtq2mka
+fingerprint=a3:5f:4a:80:5d:3e:dd:35:6f:89:38:ee:55:62:65:89
+tenancy=ocid1.tenancy.oc1..aaaaaaaa346zbvyu4bxpkcd6hhe6vscbd5x4n7x2aped2wwaxdj5yywaogda
+region=ap-sydney-1
+key_file=oci_private_key.pem
